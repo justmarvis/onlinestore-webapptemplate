@@ -1,0 +1,6 @@
+.navigation {
+  display: flex;
+}
+.navigation li {
+  list-style: none;
+}

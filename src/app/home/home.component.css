@@ -1,0 +1,15 @@
+/* css for the site-name html doc */
+
+.page {
+  border: 10px #fff;
+  border-style: double;
+  padding: 20px;
+  width: 100%;
+}
+.header {
+  display: flex;
+  align-items: flex-end;
+}
+.body {
+  margin-top: 50px;
+}
